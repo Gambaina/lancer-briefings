@@ -147,15 +147,15 @@ export default {
         },
       ],
       "header": {
-        "planet": "Hercynia",
+        "planet": "Lacion",
         "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "system": "Dorth-8",
+        "gate": "Annamite-Gormano",
+        "ring": "Annamite-Line",
+        "headerTitle": "Strider Squadron",
+        "headerSubtitle": "Nidhogg Foundation",
+        "subheaderTitle": "Rapid Response Team",
+        "subheaderSubtitle": "{List Callsigns seperated with '-'}",
       },
       "options":{
         "eventsMarkdownPerMission": true
