@@ -14,9 +14,9 @@
       </div>
     </div>
     <div class="rhombus">&nbsp;</div>
-    <!--Trying to fix this bs with a comment-->
-    <img src="/Planets/Forest_Biome_Planet.png" width="90" height="90">
-    </img>
+    <video autoplay muted loop width="90px" height="90px">
+      <source src="/planet.webm" type="video/webm" />
+    </video>
     <div class="location-info">
       <div class="location-row" id="planet-year">
         <div id="planet">
