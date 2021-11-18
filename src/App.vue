@@ -3,7 +3,7 @@
   <div class="content-container">
     <section class="section-container" id="missions" style="width:435px; height:714px;">
       <div class="section-header clipped-medium-backward">
-        <img src="/icons/dragon-logo.svg" />
+        <img src="/icons/Dragon-logo.png" />
         <h1>Mission Log</h1>
       </div>
       <div class="section-content-container">
