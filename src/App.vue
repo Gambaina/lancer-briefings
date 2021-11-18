@@ -155,7 +155,7 @@ export default {
         "headerTitle": "Strider Squadron",
         "headerSubtitle": "Nidhogg Foundation",
         "subheaderTitle": "Rapid Response Team",
-        "subheaderSubtitle": "{List Callsigns seperated with '-'}",
+        "subheaderSubtitle": "{List Callsigns}",
       },
       "options":{
         "eventsMarkdownPerMission": true
