@@ -101,7 +101,7 @@ export default {
         {
           "slug": "002",
           "name": "///Classified///",
-          "status": "partial-success"
+          "status": "failure"
         },
       ],
       "pilots": [
