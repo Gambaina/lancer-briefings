@@ -100,7 +100,7 @@ export default {
         },
         {
           "slug": "002",
-          "name": "Vigilant Gaze",
+          "name": "///Classified///",
           "status": "partial-success"
         },
       ],
