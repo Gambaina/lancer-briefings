@@ -141,7 +141,7 @@ export default {
       "header": {
         "planet": "Lacion",
         "year": "5014u",
-        "system": "Dorth-8",
+        "system": "Dorth",
         "gate": "Annamite-Gormano",
         "ring": "Annamite-Line",
         "headerTitle": "Strider Squadron",
