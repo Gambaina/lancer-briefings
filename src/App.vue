@@ -101,7 +101,7 @@ export default {
         {
           "slug": "002",
           "name": "Vigilant-Gaze",
-          "status": "failure"
+          "status": "start"
         },
       ],
       "pilots": [
