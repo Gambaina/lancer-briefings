@@ -142,7 +142,7 @@ export default {
         "headerTitle": "Mirrorsmoke",
         "headerSubtitle": "Mercenary Company",
         "subheaderTitle": "Contracted Crisis Response",
-        "subheaderSubtitle": "PLACEHOLDER",
+        "subheaderSubtitle": "UC-47",
       },
       "options":{
         "eventsMarkdownPerMission": true
