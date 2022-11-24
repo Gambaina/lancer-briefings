@@ -141,8 +141,8 @@ export default {
         "ring": "Atlas-Line",
         "headerTitle": "Mirrorsmoke",
         "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "subheaderTitle": "Contracted Crisis Response",
+        "subheaderSubtitle": "PLACEHOLDER",
       },
       "options":{
         "eventsMarkdownPerMission": true
