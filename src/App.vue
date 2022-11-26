@@ -109,12 +109,12 @@ export default {
           "mech": "the gateless gate"
         },
         {
-          "callsign": "Kal",
-          "alias": "Vier Flau",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          "callsign": "script kitten",
+          "alias": "alyssa nightingale",
+          "code": "5ab5c988-e805-4f8b-914f-d2d6ea2598d1.Nightingale.Alyssa:5ab5c988-e805-4f8b-914f-d2d6ea2598d1//NDL-C-EPSILON-HELIX",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Necrophile"
+          "mech": "baby steps"
         },
         {
           "callsign": "Starboard",
