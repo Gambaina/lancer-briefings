@@ -117,20 +117,20 @@ export default {
           "mech": "baby steps"
         },
         {
-          "callsign": "Starboard",
-          "alias": "Maria",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
+          "callsign": "felony",
+          "alias": "Alex Ranger",
+          "code": "0563475c-4e92-44af-8f5c-5309fbad3f21Ranger.Alex:0563475c-4e92-44af-8f5c-5309fbad3f21//NDL-C-FALLEN-CUT",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Scarlet Judicator"
+          "mech": ""
         },
         {
-          "callsign": "Badlands",
-          "alias": "Marlene Gatsby",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
+          "callsign": "banshee",
+          "alias": "///",
+          "code": "///",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Mayfly"
+          "mech": "///"
         },
       ],
       "header": {
