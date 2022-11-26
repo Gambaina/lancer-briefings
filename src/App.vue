@@ -141,8 +141,8 @@ export default {
         "ring": "Atlas-Line",
         "headerTitle": "Mirrorsmoke",
         "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Contracted Crisis Response",
-        "subheaderSubtitle": "UC-47",
+        "subheaderTitle": "Emergency Union Contract",
+        "subheaderSubtitle": "Rapid Response Force - 4A3-11",
       },
       "options":{
         "eventsMarkdownPerMission": true
