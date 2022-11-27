@@ -89,13 +89,13 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
+      "mission_slug": "000",
       "current_md": "",
       "events": "",
       "missions": [
         {
-          "slug": "001",
-          "name": "Bug-Hunt",
+          "slug": "000",
+          "name": "Wakeup-Call",
           "status": "start"
         },
       ],
@@ -126,11 +126,11 @@ export default {
         },
         {
           "callsign": "banshee",
-          "alias": "",
-          "code": "",
+          "alias": "Selena Korbar",
+          "code": "f2da5ed8-32c1-43af-a26d-0e45cc582aeeKorbar.Selena:f2da5ed8-32c1-43af-a26d-0e45cc582aee//NDL-C-NULL-CASCADE",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": ""
+          "mech": "less goofy"
         },
       ],
       "header": {
