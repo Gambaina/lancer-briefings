@@ -122,15 +122,15 @@ export default {
           "code": "0563475c-4e92-44af-8f5c-5309fbad3f21Ranger.Alex:0563475c-4e92-44af-8f5c-5309fbad3f21//NDL-C-FALLEN-CUT",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": ""
+          "mech": "subpoena"
         },
         {
           "callsign": "banshee",
-          "alias": "///",
-          "code": "///",
+          "alias": "",
+          "code": "",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "///"
+          "mech": ""
         },
       ],
       "header": {
