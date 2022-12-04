@@ -96,7 +96,7 @@ export default {
         {
           "slug": "000",
           "name": "Wakeup-Call",
-          "status": "start"
+          "status": "partial-success"
         },
       ],
       "pilots": [
