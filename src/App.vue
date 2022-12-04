@@ -98,6 +98,11 @@ export default {
           "name": "Wakeup-Call",
           "status": "partial-success"
         },
+        {
+          "slug": "001",
+          "name": "Bug-Hunt",
+          "status": "start"
+        },
       ],
       "pilots": [
         {
