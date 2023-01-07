@@ -16,6 +16,24 @@
 <body style="margin:0px;">
   <div id="app"></div>
   <script type="module" src="/src/main.js"></script>
+  <script src="three.r134.min.js"></script>
+  <script src="vanta.globe.min.js"></script>
+  <script>
+  VANTA.GLOBE({
+    el: "#your-element-selector",
+    mouseControls: true,
+    touchControls: true,
+    gyroControls: false,
+    minHeight: 200.00,
+    minWidth: 200.00,
+    scale: 1.00,
+    scaleMobile: 1.00,
+    color: 0x69a49d,
+    size: 1.30,
+    backgroundColor: 0x1e0f1e
+  })
+</script>
+  <!-- old background
   <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/vanta@0.5.21/dist/vanta.waves.min.js"></script>
   <script>
@@ -34,7 +52,8 @@
       waveSpeed: 0.10,
       zoom: 0.65
     })
-  </script>
+  </script> 
+  -->
 </body>
 
 </html>
