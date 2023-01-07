@@ -108,7 +108,7 @@ export default {
         {
           "callsign": "hellfire",
           "alias": "percival",
-          "code": "17cf6641-464e-4a0d-8117-4e8938f750de.Percival:17cf6641-464e-4a0d-8117-4e8938f750de//NDL-C-BLIND-EYE",
+          "code": "17cf6641-464e-4a0d-8117-4e8938f750de.Percival:17cf6641-464e-4a0d-8117-4e8938f750de//NDL-C-SACRED-DECEMBER",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "the gateless gate"
@@ -116,7 +116,7 @@ export default {
         {
           "callsign": "script kitten",
           "alias": "alyssa nightingale",
-          "code": "5ab5c988-e805-4f8b-914f-d2d6ea2598d1.Nightingale.Alyssa:5ab5c988-e805-4f8b-914f-d2d6ea2598d1//NDL-C-EPSILON-HELIX",
+          "code": "5ab5c988-e805-4f8b-914f-d2d6ea2598d1Nightingale.Alyssa:5ab5c988-e805-4f8b-914f-d2d6ea2598d1//NDL-C-SORROW-JUDGE",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "baby steps"
@@ -124,7 +124,7 @@ export default {
         {
           "callsign": "felony",
           "alias": "Alex Ranger",
-          "code": "0563475c-4e92-44af-8f5c-5309fbad3f21Ranger.Alex:0563475c-4e92-44af-8f5c-5309fbad3f21//NDL-C-FALLEN-CUT",
+          "code": "0563475c-4e92-44af-8f5c-5309fbad3f21Ranger.Alex:0563475c-4e92-44af-8f5c-5309fbad3f21//NDL-C-SOLAR-TEMPLE",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "subpoena"
@@ -132,7 +132,7 @@ export default {
         {
           "callsign": "banshee",
           "alias": "Selena Korbar",
-          "code": "f2da5ed8-32c1-43af-a26d-0e45cc582aeeKorbar.Selena:f2da5ed8-32c1-43af-a26d-0e45cc582aee//NDL-C-NULL-CASCADE",
+          "code": "f2da5ed8-32c1-43af-a26d-0e45cc582aeeKorbar.Selena:f2da5ed8-32c1-43af-a26d-0e45cc582aee//NDL-C-SATELLITE-DIVER",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "less goofy"
